@@ -1,0 +1,48 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+th {
+    font-weight: bold;
+    
+}
+
+.jumbotron {
+    background-image: url("../../assets/images/train-banner.jpg");
+    background-size: cover;
+    
+    
+}
+
+.jumbotron h2,
+.jumbotron p {
+    color: black;
+    align-content: center;
+   
+
+}
+
+.footer {
+    position: relative;
+    top: 20;
+    bottom: 0;
+    padding: 1rem;
+    background-color: #1a78c2;
+    text-align: center;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+}
+
+a:hover { 
+    background-color: blue;
+    text-decoration: underline;
+}
+
+panel-heading {
+
+}
