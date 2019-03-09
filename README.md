@@ -20,3 +20,7 @@
 * jQuery
 * AJAX technique
 * GIPHY API
+
+
+
+* Use this link to see the deployed site: https://nadiregh.github.io/Train-Scheduler/
