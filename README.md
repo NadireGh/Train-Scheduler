@@ -20,3 +20,6 @@
 * jQuery
 * AJAX technique
 * GIPHY API
+
+
+![alt text](assets/images/README.png )
