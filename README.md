@@ -22,4 +22,11 @@
 * GIPHY API
 
 
+<<<<<<< HEAD
 ![alt text](assets/images/README.png )
+=======
+
+* Use this link to see the deployed site: https://nadiregh.github.io/Train-Scheduler/
+
+
+>>>>>>> 8ba063be5507a527307876c45cfd319589f0de6d
